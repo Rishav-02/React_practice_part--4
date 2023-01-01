@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+/* span from food.js */
+span{
+  padding: 30px;
+  color: #07ee35;
+  margin: 12px;
+}
